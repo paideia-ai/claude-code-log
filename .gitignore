@@ -195,3 +195,6 @@ docs/cache/
 test/test_data/real_projects/*/cache/
 test/test_data/real_projects/*/*.html
 test/test_data/real_projects/index.html
+
+# Local Claude Code transcript dumps (may contain secrets)
+_projects_zip/
